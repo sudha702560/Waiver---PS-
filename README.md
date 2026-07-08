@@ -3,10 +3,10 @@ Here is a clean GitHub project description in 300 words:
 
 ---
 
-## Waiver Prediction Optimizer — Cholamandalam Finance
+## Waiver Prediction Optimizer 
 
 ### Overview
-This project builds a data-driven waiver prediction model for loan customers at Cholamandalam Finance. The model predicts three types of waivers — Interest Rate Waiver (W1), Admin Fee Waiver (W2), and Sourcing Fee Waiver (W3) — for 20,000 loan customers using a constrained optimization framework.
+This project builds a data-driven waiver prediction model for loan customers . The model predicts three types of waivers — Interest Rate Waiver (W1), Admin Fee Waiver (W2), and Sourcing Fee Waiver (W3) — for 20,000 loan customers using a constrained optimization framework.
 
 ### Problem Statement
 Waiver decisions in lending are often manual and inconsistent. Different officers give different discounts to similar customers. This project replaces that subjectivity with a systematic, explainable scoring model that produces consistent waiver predictions while respecting all business rules.
